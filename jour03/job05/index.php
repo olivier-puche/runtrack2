@@ -25,7 +25,7 @@ for ($i = 0; isset($str[$i]); $i+=1)
 
 }
 
-//print_r($dic) (permet d'imprimer le résulat avant tableau)
+//print_r($dic)
 
 ?>
 
