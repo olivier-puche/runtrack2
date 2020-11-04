@@ -17,7 +17,6 @@ while($nombre <= 1000)
             $i++;
         }
     
-
     if($multiple == 2)
     {
         echo $nombre .'<br>';
@@ -25,6 +24,5 @@ while($nombre <= 1000)
 
     $nombre++;
 }
-
 
 ?>
